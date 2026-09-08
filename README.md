@@ -51,7 +51,7 @@ Draft Reply   Create Event      Escalate to Me   Log Task
 
 ## Screenshots
 
-See `images/` for the workflow canvas and an example decision trace.
+See `output.png` for the workflow canvas and an example decision trace.
 
 ---
 
